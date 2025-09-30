@@ -16,11 +16,17 @@
 apresentado.
 
  Número Tipo numérico
+
  5
+
  5.0
+ 
  4.3
+
  -2
+ 
  True
+ 
  Python
 
 5 - Faça um programa em linguagem Python que converta metros para centímetros.
