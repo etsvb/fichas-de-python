@@ -7,7 +7,9 @@
 3 - Converta as seguintes expressões matemáticas para que possam ser calculadas usando o interpretador Python.
 
 10 + 20 × 30
+
 42 ÷ 30
+
 (94 + 2) × 6 - 1
 
 4 - Complete a tabela a seguir, marcando inteiro ou ponto flutuante dependendo do número
